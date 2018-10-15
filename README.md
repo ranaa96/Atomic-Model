@@ -1,2 +1,2 @@
 # Atomic-Model
-Atomic Model openGL
+2d simulation of Atomic Model openGL
